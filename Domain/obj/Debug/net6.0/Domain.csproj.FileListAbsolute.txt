@@ -1,0 +1,70 @@
+C:\Users\Upqroo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto 25 AM actualizado xd\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\Upqroo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto 25 AM actualizado xd\Domain\bin\Debug\net6.0\Domain.runtimeconfig.json
+C:\Users\Upqroo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto 25 AM actualizado xd\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\Upqroo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto 25 AM actualizado xd\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\Upqroo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Upqroo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Upqroo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Upqroo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\Upqroo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Upqroo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\Upqroo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\Upqroo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\Upqroo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache
+C:\Users\Upqroo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\pc-trasversal\Desktop\Proyecto 25 AM actualizado xd\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\pc-trasversal\Desktop\Proyecto 25 AM actualizado xd\Domain\bin\Debug\net6.0\Domain.runtimeconfig.json
+C:\Users\pc-trasversal\Desktop\Proyecto 25 AM actualizado xd\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\pc-trasversal\Desktop\Proyecto 25 AM actualizado xd\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\pc-trasversal\Desktop\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\pc-trasversal\Desktop\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc-trasversal\Desktop\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\pc-trasversal\Desktop\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\pc-trasversal\Desktop\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\pc-trasversal\Desktop\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\pc-trasversal\Desktop\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\pc-trasversal\Desktop\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\pc-trasversal\Desktop\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache
+C:\Users\pc-trasversal\Desktop\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\Upqroo\OneDrive\Escritorio\Proyecto 25 AM actualizado xd\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\Upqroo\OneDrive\Escritorio\Proyecto 25 AM actualizado xd\Domain\bin\Debug\net6.0\Domain.runtimeconfig.json
+C:\Users\Upqroo\OneDrive\Escritorio\Proyecto 25 AM actualizado xd\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\Upqroo\OneDrive\Escritorio\Proyecto 25 AM actualizado xd\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\Upqroo\OneDrive\Escritorio\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Upqroo\OneDrive\Escritorio\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Upqroo\OneDrive\Escritorio\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Upqroo\OneDrive\Escritorio\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\Upqroo\OneDrive\Escritorio\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Upqroo\OneDrive\Escritorio\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\Upqroo\OneDrive\Escritorio\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\Upqroo\OneDrive\Escritorio\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\Upqroo\OneDrive\Escritorio\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache
+C:\Users\Upqroo\OneDrive\Escritorio\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\USER\OneDrive\Escritorio\APIII\Proyecto 25 AM actualizado xd\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\USER\OneDrive\Escritorio\APIII\Proyecto 25 AM actualizado xd\Domain\bin\Debug\net6.0\Domain.runtimeconfig.json
+C:\Users\USER\OneDrive\Escritorio\APIII\Proyecto 25 AM actualizado xd\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\USER\OneDrive\Escritorio\APIII\Proyecto 25 AM actualizado xd\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\USER\OneDrive\Escritorio\APIII\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Escritorio\APIII\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Escritorio\APIII\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Escritorio\APIII\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Escritorio\APIII\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Escritorio\APIII\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\USER\OneDrive\Escritorio\APIII\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\USER\OneDrive\Escritorio\APIII\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\USER\OneDrive\Escritorio\APIII\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Escritorio\APIII\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\Upqroo\Desktop\APIII\Proyecto 25 AM actualizado xd\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\Upqroo\Desktop\APIII\Proyecto 25 AM actualizado xd\Domain\bin\Debug\net6.0\Domain.runtimeconfig.json
+C:\Users\Upqroo\Desktop\APIII\Proyecto 25 AM actualizado xd\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\Upqroo\Desktop\APIII\Proyecto 25 AM actualizado xd\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\Upqroo\Desktop\APIII\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Upqroo\Desktop\APIII\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Upqroo\Desktop\APIII\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Upqroo\Desktop\APIII\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\Upqroo\Desktop\APIII\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Upqroo\Desktop\APIII\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\Upqroo\Desktop\APIII\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\Upqroo\Desktop\APIII\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\Upqroo\Desktop\APIII\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache
+C:\Users\Upqroo\Desktop\APIII\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\ref\Domain.dll
